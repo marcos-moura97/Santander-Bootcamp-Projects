@@ -12,4 +12,4 @@ Este projeto foi proposto pela Digital Innovation One no Santander Bootcamp | Fu
 Aprenda na prática como funciona uma arquitetura de software baseada em microsserviços, os seus benefícios e desafios, assim como faremos um projeto em Java com Spring Cloud para você desenvolver o seu portfólio de projetos.
 
 # Modelo
-![image](https://github.com/marcos-moura97/Santander-Bootcamp-Projeto3-Java-Microsservicos-spring-cloud/blob/main/configuration.PNG)
+![image](https://github.com/marcos-moura97/Santander-Bootcamp-Projects/blob/main/Projeto3-Java-Microsservicos-spring-cloud/configuration.PNG)
